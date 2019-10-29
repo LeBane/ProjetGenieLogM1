@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.gildedrose.GildedRoseTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2019-10-29T17:37:53" hostname="benjamin-PC" time="0.011">
+  <properties/>
+  <testcase name="SulfurasBeingALegendaryItemNeverHasToBeSoldOrDecreasesInQuality" classname="com.gildedrose.GildedRoseTest" time="0.009"/>
+  <testcase name="backstagePassesIncreaseInQualityBy2WhenThereAre10DaysOrLessRemaining" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="briesQualityIncrementsByTwoForEachDayPastItsSellByDate" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="backstagePassesQualityIncrementsByOneWithEachDayPassing" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="theQualityOfAnItemIsNeverMoreThan50" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="onceTheSellByDateHasPassed_QualityDegradesTwiceAsFast" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="conjuredItemsDegradeInQualityTwiceAsFastAsNormalItems" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="backstagePassesQualityDropsTo0AfterTheConcert" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="backstagePassesIncreaseInQualityBy3WhenThereAre5DaysOrLessRemaining" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="updateQuality_decrementsItemsQualityAndSellInBy1" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <testcase name="qualityOfAnItemIsNeverNegative" classname="com.gildedrose.GildedRoseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
