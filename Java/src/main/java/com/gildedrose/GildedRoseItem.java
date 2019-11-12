@@ -9,7 +9,7 @@ package com.gildedrose;
  *
  * @author benjamin
  */
-public class GildedRoseItem {
+public abstract class GildedRoseItem {
     
     
     public void incrementQuality(Item item){
