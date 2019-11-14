@@ -36,8 +36,8 @@ public abstract class GildedRoseItem {
     public void updateQuality(Item item){
         decrementQuality(item);
     }
-    
-    public void updateItem(Item item){
+    // Méthode socle du patron de conception méthode.
+    public final void updateItem(Item item){
         updateQuality(item);
         updateSellIn(item);
         if(item.sellIn < 0){
